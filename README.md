@@ -4,21 +4,19 @@ Este repositório contém o trabalho acadêmico da disciplina de Programação I
 
 ## 👨‍👩‍👧‍👦 Integrantes
 
-- Fulano da Silva - RA: 123456
-- Ciclano Pereira - RA: 234567
-- Beltrano Souza - RA: 345678
-- Maria Oliveira - RA: 456789
-- João Lima - RA: 567890
+- Alcides Antonio Lorenski Neto
+- Felipe Eduardo Bohen
+- Miguel Schneiders Flach
+- Murilo Morosini
+- Roney Bieger Anshau
 
 ## 🛠 Tecnologias Utilizadas
 
 - PHP 8.x
-- Framework PHP (ex: Laravel, Slim, Lumen ou outro)
+- Framework PHP Laravel
 - Composer
-- MySQL / MariaDB
+- MySQL
 - HTML5, CSS3
-- Bootstrap (opcional)
-- JavaScript (opcional)
 
 ## 📁 Estrutura do Projeto
 
