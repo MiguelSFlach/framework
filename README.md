@@ -4,7 +4,6 @@ Este repositório contém o trabalho acadêmico da disciplina de Programação I
 
 ## 👨‍👩‍👧‍👦 Integrantes
 
-- Alcides Antonio Lorenski Neto  
 - Felipe Eduardo Bohen  
 - Miguel Schneiders Flach  
 - Murilo Morosini  
