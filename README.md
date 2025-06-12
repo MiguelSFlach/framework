@@ -2,7 +2,6 @@
 
 Este repositório contém o trabalho acadêmico da disciplina de **Programação III**, onde desenvolvemos um sistema CRUD utilizando o framework **Yii2**, com uso de **migrations** para o versionamento do banco de dados. O projeto segue o padrão **MVC** e utiliza o gerador **Gii** para agilidade no desenvolvimento.
 
-> 💡 Também foi sugerido como exemplo adicional o desenvolvimento de um CRUD para cadastro de veículos (concessionária), mas este repositório contém apenas o **Projeto 2 - Cadastro de Produtos (Mercado)**, que foi o foco principal deste trabalho.
 
 ## 👨‍👩‍👧‍👦 Integrantes
 
