@@ -60,7 +60,3 @@ Sistema CRUD completo para gerenciamento de produtos de um mercado, com os segui
    ```bash
    php yii serve
    ```
-
-## 📘 Licença
-
-Este projeto é acadêmico e não possui fins comerciais.
