@@ -5,10 +5,10 @@ Este repositório contém o trabalho acadêmico da disciplina de **Programação
 
 ## 👨‍👩‍👧‍👦 Integrantes
 
-- Felipe Eduardo Bohen  
+- Felipe Eduardo Bonhen  
 - Miguel Schneiders Flach  
 - Murilo Morosini  
-- Roney Bieger Anshau  
+- Roney Bieger Anschau  
 
 ## 🛠 Tecnologias Utilizadas
 
